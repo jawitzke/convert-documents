@@ -56,11 +56,11 @@ to nod in agreement as if to let Atticus now it will all be fine.
 
 **Mr. Hobson** then peered over at the picture one last time, thinking of Mrs. Hobson’s intoxicating laugh,  
 
-  ##### and 
-  #### took 
-  ### his 
-  ## leap 
-  ## of
-  # faith. 
+##### and 
+#### took 
+### his 
+## leap 
+## of
+# faith. 
   
   ##### The End.
