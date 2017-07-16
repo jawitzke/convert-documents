@@ -24,4 +24,6 @@ echo ""
 pandoc -s $INPUT -o $OUTPUT.rtf
 echo "Created new file in RTF format called $OUTPUT.rtf"
 echo ""
+echo "All Done"
+echo "Converted $INPUT to HTML, DOCX, ODT, PDF, and RTF" 
 # Make the command line read "Converted INPUT-FILENAME to HTML, DOCX, ODT, PDF
