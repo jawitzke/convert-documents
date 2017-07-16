@@ -14,11 +14,11 @@ Never letting his gaze leave the floor, **Mr. Hobson** saunters while dragging h
 	No longer dragging his feet he made his way over to the dinning room and hauled a chair across the deep red mahogany wood floors that where noticeably the most prestigious part of **Mr. Hobson’s** house. He set the chair in the living room. The storm had finally reached the cottage and the aroma of rain began to linger around his nose. Surprisingly, the smell had only enhanced his confidence and **Mr. Hobson** climbed up the chair step by step. Looking around the room he saw every little artifact of the house that reminded him of Mrs. Hobson. The Dali print that hung about their fireplace that seemed to provide the perfect juxtaposition that Salvador himself could only dream of because the rest of the room was filled with black and brown, but that painting alone was enough to brighten up the room. 
 	Thunder then cracked throughout **Mr. Hobson’s** head, removing him from the trance that the painting seemed to have put him under. **Mr. Hobson** then swallowed deeply and continued the task at hand feeling every bristle around his neck. It had never dawned on him that the bristles would be so itchy, and annoying, but yet they seemed to bring about a hint of satisfaction to him. **Mr. Hobson** felt the loose strands more intensely as he pulled down tighter. He glanced over at Atticus who seemed to nod his head in approval causing **Mr. Hobson** to nod in agreement as if to let Atticus now it will all be fine. 
 	**Mr. Hobson** then peered over at the picture one last time, thinking of Mrs. Hobson’s intoxicating laugh, 
-  #####and 
-  ####took 
-  ###his 
-  ##leap 
-  ##of
-  #faith. 
+  ##### and 
+  #### took 
+  ### his 
+  ## leap 
+  ## of
+  # faith. 
   
   ### The End.
